@@ -1,0 +1,248 @@
+@media screen and (max-width:1186px)
+{
+.contaner-fluid{
+    width: 100%;
+}
+
+}
+@media screen and (max-width:991px)
+{
+    .menu {
+        float: right;
+        width: 15%;
+        right: 0;
+        position: absolute;
+        
+        color: #fff;
+    }
+    .menu .navbar-nav {
+        float: right;
+        background-color: black;
+    }
+    .call1 h2 {
+        font-size: 25px;
+        float: left;
+        margin-top: 18%;
+    }
+    .call1 h4 {
+        float: right;
+        margin-right: 5%;
+        font-size: 24px;
+    }
+    .coffee1 img {
+        margin-top: 14%;
+        width: 30%;
+        position: absolute;
+        margin-left: -17%;
+    }
+    .text1 h1 {
+        font-size: 39pt !important;
+        margin-bottom: 30px;
+        margin-top: 35px;
+        /* text-align: center; */
+    }
+    .text1 p {
+        margin-bottom: 25px !important;
+        font-size: 10pt;
+        text-align: center;
+    }
+    .button1 {
+        margin-left: 20%;
+    }
+}
+@media screen and (max-width:500px)
+{
+    .text1 h1 {
+        text-align: center;
+        font-size: 21px;
+    }
+    .text1 h1 {
+        font-size: 39pt !important;
+        margin-bottom: 30px;
+        margin-top: 35px;
+        /* text-align: center; */
+    }
+    .text1 p {
+        margin-bottom: 25px !important;
+        font-size: 10pt;
+        text-align: center;
+    }
+    .button1 {
+        margin-left: 20%;
+    }
+    .text1 {
+        color: #fff;
+        /* text-align: center; */
+        margin-top: 19%;
+        margin-bottom: 18%;
+        width: 95%;
+        float: right;
+    }
+    .coffee1 img {
+        margin-top: -12%;
+        width: 54%;
+        position: absolute;
+        margin-left: -17%;
+    }
+    .call1 h4 {
+        float: right;
+        margin-right: 5%;
+        font-size: 24px;
+        margin-top: 55%;
+    }
+    .call1 h2 {
+        font-size: 25px;
+        float: left;
+        margin-top: 55%;
+    }
+    .background2 {
+        background-color: #dc3822;
+        float: left;
+        width: 100%;
+        min-height: 100%;
+        padding-top: 25%;
+    }
+    .menu {
+        float: right;
+        width: 19%;
+        right: 0;
+        position: absolute;
+        color: #fff;
+    }
+    .logo1 {
+        float: left;
+        width: 31%;
+        position: absolute;
+        padding-top: 15px;
+    }
+     .text2 p {
+        font-size: 15px;
+        text-align: center;
+        width: 100%;
+    }
+    .text2 h1 {
+        font-size: 22pt;
+        text-align: center;
+        width:  100%;
+    
+    }
+    .coffee2 {
+        width: 70%;
+        float: left;
+    }
+    .coffee2 img {
+        width: 100%;
+        margin-left: 16%;
+    }
+    .text2 {
+        float: right;
+        width: 100%;
+        color: #fff;
+        margin-top: 15%;
+        text-align: center;
+        padding-bottom: 5%;
+    }
+    .text3 p {
+        font-size: 10pt;
+    }
+    .text3 h1 {
+        padding-top: 8%;
+        font-size: 17pt;
+    }
+    button.but01 {
+        margin-bottom: 2%;
+    }
+    .coffie13 img {
+        width: 44%;
+        margin-top: 7%;
+    }
+    .coffie4 img {
+        background-color: red;
+        width: 49%;
+        border-radius: 20px;
+    }
+    .text4 {
+        background-color: #fff;
+        color: blue;
+        padding: 5%;
+        width: 89%;
+        font-size: 12px;
+        margin-left: 6%;
+    }
+    .man1 {
+        width: 14%;
+        box-shadow: -16px -21px 0px -5px rgb(234 103 9);
+        float: left;
+        margin-left: 39px;
+    }
+    .get {
+        margin-top: 15%;
+        margin-left: 31%;
+    }
+    .email input {
+        width: 73%;
+        border: none;
+        background-color: transparent;
+        text-align: center;
+    }
+    .section1 {
+        float: left;
+        width: 103%;
+        border-bottom: 10px solid #fff;
+    }
+    .section2 {
+        float: left;
+        width: 103%;
+        /* border-right: 10px solid #fff; */
+        border-bottom: 10px solid #fff;
+    }
+    .section3 {
+        width: 103%;
+    }
+    .section4 {
+        margin-top: 10px;
+        background-color: #1f1d47;
+        color: #fff;
+        /* border-left: 10px solid #fff; */
+        border-top: 10px solid #fff;
+        width: 100%;
+    }
+    .leve {
+        float: right;
+        margin-right: 11px;
+        margin-top: -66%;
+    }
+    .logo3 img {
+        width: 29%;
+    }
+    .coffie7 img {
+        width: 59%;
+    }
+    .coffie7 {
+        margin-left: 19%;
+        margin-bottom: 5%;
+    }
+    .navbar-nav li {
+        list-style: none;
+        padding: 0px;
+        float: right;
+        border-bottom: 1px solid;
+        text-align: center;
+        margin: auto;
+    }
+    .text5 {
+        width: 320px;
+        margin: auto;
+    }
+    .text05 {
+        width: 87% !important;
+    }
+    .menu .navbar-nav {
+        float: right;
+        background-color: transparent;
+        width: 248%;
+    }
+
+    
+    
+}

@@ -1,0 +1,316 @@
+body{
+    width: 97%;
+    margin: none;
+    padding: none;
+}
+.section1 {
+    float: left;
+    width: 100%;
+   
+    
+    border-bottom: 10px solid #fff;
+}
+.background1
+{
+    background-image: url(image/background1.png);
+    width: 100%;
+    background-size: cover;
+    float: left;
+}
+.background2
+{
+    background-color: #dc3822;
+    float: left;
+    width: 100%;
+    min-height: 100%;
+  
+}
+.coffee1 img {
+    margin-top: 12%;
+    width: 30%;
+    position: absolute;
+    margin-left: -15%;
+}
+.logo1
+{
+    float: left;
+    width: 20%;
+}
+.logo1 img
+{
+    width: 100%;
+}
+.navbar
+{
+    float: left;
+}
+.navbar-nav
+{
+    float: left;
+    width: 100%;
+}
+
+.navbar-nav li{
+    list-style: none;
+    padding: 0px;
+    float: right;
+}
+.navbar-nav li a{
+    float: left;
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+
+
+}
+.menu
+{
+    float: right;
+    width: 60%;
+}
+.menu .navbar-nav
+{
+    float: right;
+}
+.call1
+{
+    color: #fff;
+}
+.call1 h4{
+    float: right;
+    margin-right: 5%;
+}
+.call1 h2
+{
+    font-size: 20px;
+    float: left;
+
+}
+.text1 {
+    color: #fff;
+    /* text-align: center; */
+    margin-top: 19%;
+    margin-bottom: 18%;
+    width: 71%;
+    float: right;
+}
+.text1 h1 {
+    font-size: 64pt;
+    margin-bottom: 30px;
+    margin-top: -82px;
+}
+.text1 p
+{
+    margin-bottom: 25px !important;
+}
+button {
+    background-color: #db341e;
+    border: none;
+    border-radius: 5px !important;
+    margin-bottom: 40px;
+    padding: 12px 25px 12px 25px;
+    text-align: center;
+}
+.back1
+{
+    background-image: url(image/background1.png);  
+    width: 100%;  
+}
+.coffee2{
+    width: 50%;
+    float: left;
+}
+.coffee2 img
+{
+    
+        width: 60%;
+        margin-left: 16%;
+    
+}
+
+.section2 {
+    float: left;
+    width: 100%;
+    border-bottom: 10px solid #fff;
+}
+.text2
+{
+    float: right;
+    width: 50%;
+    color: #fff;
+    margin-top: 15%;
+}
+.text2 h1
+{
+    font-size: 40pt;
+}
+
+.text2 h1 p
+{
+    margin-bottom: 15px;
+}
+.background01
+{
+    width: 100%;
+    background-color: #1f1d47;
+    color: #fff;
+    text-align: center;
+    
+}
+.coffie3 img{
+    background-color: #fff;
+    border-radius: 20px;
+}
+.coffie4 img
+{
+    background-color: red;
+    width: 60%;
+    border-radius: 20px;
+}
+.coffie13 img
+{
+    width: 70%;
+}
+.coffie03
+{
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+.but01
+{
+    margin-bottom: 10%;
+}
+.section4
+{   margin-top: 10px;
+    background-color: #1f1d47;
+    color: #fff;
+   width: 100%;
+    
+    border-top: 10px solid #fff;
+}
+.info input
+{
+    display: block;
+    margin: auto;
+    width: 60%;
+    border: none;
+    margin-bottom: 15px;
+    padding: 10px 10px 10px 10px;
+    
+}
+.btn5 {
+    display: block;
+    margin: auto;
+    padding: 15px 73px 15px 73px;
+    margin-bottom: 15%;
+    border-radius: 49% !important;
+}
+.info
+{
+    
+}
+.get
+{
+    margin-top: 15%;
+    margin-left: 19%;
+}
+.text4 {
+    background-color: #fff;
+    color: blue;
+    padding: 5%;
+    width: 90%;
+    font-size: 15px;
+}
+.man1 img
+{   float: left;
+    width: 100%;
+    margin-top: -10px;
+ 
+}
+.man1 {
+    width: 15%;
+    box-shadow: -16px -21px 0px -5px rgb(234 103 9);
+    float: left;
+}
+.coffess img {
+    width: 38%;
+    margin-left: 46%;
+}
+.section5
+{
+    background-color: #1f1d47;
+    float: left;
+    width: 100%;
+  
+    border-top: 10px solid #fff;
+}
+.coffie7 img{
+    width: 35%;
+    
+}
+.coffie7 {
+    margin-left: 35%;
+    margin-bottom: 5%;
+}
+.logo3
+{
+    text-align: center;
+
+}
+.logo3 img
+{
+    width: 15%;
+}
+.email input
+{
+    width: 80%;
+}
+.email input {
+    width: 80%;
+    border: none;
+    background-color: transparent;
+}
+.btn10
+{
+    background-color: transparent;
+    color: #db341e;
+}
+.email{
+    border-bottom: 2px solid #fff;
+}
+.text05
+{   width: 89% !important;
+    color: #fff;
+    margin-left: 13%;
+}
+.font1
+{
+    width: 30%;
+}
+.font2
+{
+    width: 30%;
+}
+.text7 h1{
+    width: 30%;
+}
+.text05
+{
+    width: 89%;
+}
+.leve {
+    float: right;
+    
+    margin-right: 5px;
+}
+.coffie03 h1{
+    font-size: 15pt !important;
+}
+.text3 h1 {
+    padding-top: 8%;
+}
+button.but01 {
+    margin-bottom: 30%;
+}
